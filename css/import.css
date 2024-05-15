@@ -1,0 +1,7 @@
+/* importing other styles */
+@import url(reset.css);
+@import url(http://fonts.googleapis.com/css?family=Cuprum&subset=cyrillic);
+@import url(../fonts/fonts.css);
+@import url(skeleton.css);
+@import url(screen.css);
+@import url(prettyPhoto.css);
